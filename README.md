@@ -15,9 +15,9 @@
 
 ## Descrição do Projeto
 
-Projeto contruindo com uso da propriedade Flexbox do CSS.
+Projeto construindo com uso da propriedade Flexbox do CSS.
 
-Esta página foi desenvolvida durante o curso Posicionando elementos comFlexbox em CSS da Digital Innovation One.
+Esta página foi desenvolvida durante o curso Posicionando elementos com Flexbox em CSS da Digital Innovation One.
 
 ## Tecnologias usadas
 
