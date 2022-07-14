@@ -1,6 +1,6 @@
 <h1 align="center">Instagram-Dio</h1>
 
-![]()
+![Instagram](https://user-images.githubusercontent.com/105315548/179088020-f08e99ee-ea3a-4ee2-bde0-0a16474df141.png)
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -11,10 +11,6 @@
 - `Descrição do Projeto`
 - `Tecnologias usadas`
 - `Acesse o Projeto`
-
-
-
-
 
 
 ## Descrição do Projeto
